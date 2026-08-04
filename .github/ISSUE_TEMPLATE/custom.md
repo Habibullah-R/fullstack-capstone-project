@@ -1,6 +1,6 @@
 ---
-name: User story
-about: Add user functionality
+name: Custom issue template
+about: Add search functionality
 title: ''
 labels: ''
 assignees: ''
