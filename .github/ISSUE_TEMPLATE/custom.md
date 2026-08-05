@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: ''
+about: 'Search functionality'
 title: ''
 labels: ''
 assignees: ''
