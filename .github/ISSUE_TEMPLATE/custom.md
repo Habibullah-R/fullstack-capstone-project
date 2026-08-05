@@ -1,21 +1,20 @@
 ---
 name: Custom issue template
-about: Add search functionality
+about: ''
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-**As a** User
-**I need** Search tab
-**So that** I can search the gift according to my need
+**As a** [role]
+**I need** [function]
+**So that** [benefit]
 
 ### Details and Assumptions
     * [document what you know]
 
 ### Acceptance Criteria
     gherkin
-    Given Input box
-    When user enter text and submit it
-    Then it shows the desired gift according to keywords
+    Given [some context]
+    When [certain action is taken]
+    Then [the outcome of action is observed]
